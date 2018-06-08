@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package="slnunicode"
-version="1.1-1"
+version="1.1-2"
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.1-2",
   url = "git://github.com/LuaDist-testing/slnunicode.git"
 }
 -- Original source
@@ -19,7 +19,7 @@ description = {
       the Selene database project.
    ]],
    homepage = "http://luaforge.net/projects/sln/",
-   license = "MIT/X11"
+   license = "Tcl License + MIT/X11"
 }
 dependencies = {
    "lua >= 5.1"
